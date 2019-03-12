@@ -1,0 +1,6 @@
+__pycache__
+db.sqlite3
+.temp
+/static
+/media
+goorm*
